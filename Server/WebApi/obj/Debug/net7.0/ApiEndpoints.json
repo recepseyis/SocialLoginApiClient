@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.AuthController",
+    "Method": "GoogleAuthenticate",
+    "RelativePath": "api/Auth/GoogleAuthenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApi.Models.Auth.GoogleUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Recep\Downloads\social-login-web-api-master\social-login-web-api-master\src\Server\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
